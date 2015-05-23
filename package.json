@@ -1,0 +1,20 @@
+{
+  "name": "adventure-math",
+  "version": "0.0.0",
+  "description": "Learn your math!",
+  "bin": {
+    "adventure-math": "runner.js"
+  },
+  "author": "Hemanth.HM <hemanth.hm@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "nodeschool",
+    "adventure",
+    "education",
+    "math",
+    "fun"
+  ],
+  "dependencies": {
+    "adventure-runner": "^2.0.0"
+  }
+}
